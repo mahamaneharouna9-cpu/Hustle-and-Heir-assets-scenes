@@ -1,0 +1,22 @@
+# Generated exports from the asset checklist tooling (docs/asset-checklist)
+/build/
+
+# Asset pipeline intermediates (source files are large; keep them out of Git)
+source/
+*.psd
+*.sbsar
+*.blend1
+*.zpr
+*.max
+
+# Engine / tool caches
+Intermediate/
+Saved/
+Library/
+.vs/
+.idea/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
