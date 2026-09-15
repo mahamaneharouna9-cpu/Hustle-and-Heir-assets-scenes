@@ -121,36 +121,23 @@
   },
   {
    "src": "21_pets/PET_04_Turtle.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_05_Snake.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_06_Crane.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_07_Monkey.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5943,8 +5930,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 21,
-  "views_pending": 1978,
+  "complete": 24,
+  "views_pending": 1968,
   "views_per_turn_limit": 10
  }
 }
