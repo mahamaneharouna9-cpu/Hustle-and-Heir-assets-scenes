@@ -96,21 +96,13 @@
   },
   {
    "src": "05_workstations/WORKSTATION_03_Tailoring_Loom.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "05_workstations/WORKSTATION_04_Artifact_Table.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_01_Dragon.jpg",
@@ -124,18 +116,13 @@
   },
   {
    "src": "21_pets/PET_03_Tiger.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_04_Turtle.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5956,8 +5943,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 18,
-  "views_pending": 1988,
+  "complete": 21,
+  "views_pending": 1978,
   "views_per_turn_limit": 10
  }
 }
