@@ -151,37 +151,23 @@
   },
   {
    "src": "21_pets/PET_10_Eagle.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_11_Wolf.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_12_Fox.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_13_Dragon_Turtle.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_14_Qilin.jpg",
@@ -5918,8 +5904,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 27,
-  "views_pending": 1959,
+  "complete": 31,
+  "views_pending": 1949,
   "views_per_turn_limit": 10
  }
 }
