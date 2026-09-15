@@ -371,35 +371,23 @@
   },
   {
    "src": "25_harvestable_ore_veins/ORE_06_Immortal_Origin_Ore.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "26_harvestable_fish/FISH_01_Golden_Carp.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "26_harvestable_fish/FISH_02_Void_Eel.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "26_harvestable_fish/FISH_03_Spirit_Koi.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5743,8 +5731,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 71,
-  "views_pending": 1828,
+  "complete": 74,
+  "views_pending": 1819,
   "views_per_turn_limit": 10
  }
 }
