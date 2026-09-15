@@ -296,36 +296,23 @@
   },
   {
    "src": "23_harvestable_herbs/HERB_03_Sunleaf.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "23_harvestable_herbs/HERB_04_Void_Lotus.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "23_harvestable_herbs/HERB_05_Phoenix_Herb.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "23_harvestable_herbs/HERB_06_Immortal_Dao_Fruit.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5803,8 +5790,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 56,
-  "views_pending": 1873,
+  "complete": 59,
+  "views_pending": 1863,
   "views_per_turn_limit": 10
  }
 }
