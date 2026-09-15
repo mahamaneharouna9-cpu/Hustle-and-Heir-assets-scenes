@@ -186,35 +186,23 @@
   },
   {
    "src": "21_pets/PET_17_Dog.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_18_Rabbit.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_19_Parrot.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_01_Horse.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5891,8 +5879,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 34,
-  "views_pending": 1939,
+  "complete": 37,
+  "views_pending": 1930,
   "views_per_turn_limit": 10
  }
 }
