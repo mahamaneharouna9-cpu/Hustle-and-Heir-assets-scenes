@@ -311,37 +311,23 @@
   },
   {
    "src": "23_harvestable_herbs/HERB_06_Immortal_Dao_Fruit.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "24_harvestable_trees/TREE_01_Mana_Tree.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "24_harvestable_trees/TREE_02_Spirit_Peach.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "24_harvestable_trees/TREE_03_Thunder_Oak.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "24_harvestable_trees/TREE_04_Frost_Willow.jpg",
@@ -5790,8 +5776,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 59,
-  "views_pending": 1863,
+  "complete": 63,
+  "views_pending": 1853,
   "views_per_turn_limit": 10
  }
 }
