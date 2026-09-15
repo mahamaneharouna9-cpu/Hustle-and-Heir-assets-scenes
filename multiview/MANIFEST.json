@@ -553,30 +553,18 @@
   },
   {
    "src": "18_housing/HOUSING_05_Rural_Farmhouse.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_06_Underground_Bunker.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_07_Arcane_Tower_Home.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5579,8 +5567,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 106,
-  "views_pending": 1699,
+  "complete": 109,
+  "views_pending": 1689,
   "views_per_turn_limit": 10
  }
 }
