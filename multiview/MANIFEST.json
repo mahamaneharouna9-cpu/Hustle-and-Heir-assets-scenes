@@ -231,37 +231,23 @@
   },
   {
    "src": "22_mounts/MOUNT_07_Jet.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_08_Tiger_Mount.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_09_Turtle_Mount.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_10_Cloud_Car.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_11_Kirin_Mount.jpg",
@@ -5854,8 +5840,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 43,
-  "views_pending": 1911,
+  "complete": 47,
+  "views_pending": 1901,
   "views_per_turn_limit": 10
  }
 }
