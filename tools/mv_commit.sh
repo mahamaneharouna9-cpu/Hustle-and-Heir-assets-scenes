@@ -5,6 +5,12 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 PY=/home/user/.glbenv/bin/python
+# self-heal: venv is cleared between sessions
+if [ ! -x "$PY" ]; then
+  echo "recreating python venv..."
+  python3 -m venv /home/user/.glbenv
+  /home/user/.glbenv/bin/pip install --quiet pillow numpy
+fi
 BRANCH=arena/01a0a60e-hustle-and-heir-assets-scenes
 
 $PY tools/update_manifest.py
