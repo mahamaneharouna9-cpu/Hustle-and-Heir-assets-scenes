@@ -17,10 +17,8 @@
   },
   {
    "src": "01_base_meshes/BASE_04_Heavy_Mesh.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "01_base_meshes/BASE_05_Tall_Mesh.jpg",
@@ -34,35 +32,23 @@
   },
   {
    "src": "03_vehicles/VEHICLE_02_Scooter.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_03_Motorcycle.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_04_Sports_Car.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_05_SUV.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5934,8 +5920,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 7,
-  "views_pending": 1955,
+  "complete": 11,
+  "views_pending": 1945,
   "views_per_turn_limit": 10
  }
 }
