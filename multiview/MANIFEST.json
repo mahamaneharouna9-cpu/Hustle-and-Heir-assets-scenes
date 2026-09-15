@@ -431,29 +431,18 @@
   },
   {
    "src": "27_harvestable_tech_salvage/TECH_06_Immortal_Tech_Core.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_01_Shop.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_02_Restaurant.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
     "interior"
    ]
   },
@@ -5695,8 +5684,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 83,
-  "views_pending": 1792,
+  "complete": 85,
+  "views_pending": 1783,
   "views_per_turn_limit": 10
  }
 }
