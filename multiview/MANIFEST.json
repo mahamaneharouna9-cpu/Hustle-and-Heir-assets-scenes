@@ -136,35 +136,23 @@
   },
   {
    "src": "21_pets/PET_07_Monkey.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_08_Leopard.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_09_Mantis.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_10_Eagle.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5930,8 +5918,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 24,
-  "views_pending": 1968,
+  "complete": 27,
+  "views_pending": 1959,
   "views_per_turn_limit": 10
  }
 }
