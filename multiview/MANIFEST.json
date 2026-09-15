@@ -17,36 +17,25 @@
   },
   {
    "src": "01_base_meshes/BASE_04_Heavy_Mesh.jpg",
-   "done": 1,
+   "done": 2,
    "missing": [
-    "side",
     "back"
    ]
   },
   {
    "src": "01_base_meshes/BASE_05_Tall_Mesh.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_01_Bicycle.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_02_Scooter.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5945,8 +5934,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 5,
-  "views_pending": 1964,
+  "complete": 7,
+  "views_pending": 1955,
   "views_per_turn_limit": 10
  }
 }
