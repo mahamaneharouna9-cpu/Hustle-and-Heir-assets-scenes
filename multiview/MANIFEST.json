@@ -538,31 +538,18 @@
   },
   {
    "src": "18_housing/HOUSING_02_House.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_03_Mansion.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_04_Mystic_Villa.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_05_Rural_Farmhouse.jpg",
@@ -5592,8 +5579,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 104,
-  "views_pending": 1709,
+  "complete": 106,
+  "views_pending": 1699,
   "views_per_turn_limit": 10
  }
 }
