@@ -171,36 +171,23 @@
   },
   {
    "src": "21_pets/PET_14_Qilin.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_15_Bear.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_16_Cat.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_17_Dog.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5904,8 +5891,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 31,
-  "views_pending": 1949,
+  "complete": 34,
+  "views_pending": 1939,
   "views_per_turn_limit": 10
  }
 }
