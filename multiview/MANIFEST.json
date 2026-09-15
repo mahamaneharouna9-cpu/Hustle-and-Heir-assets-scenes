@@ -276,42 +276,28 @@
   },
   {
    "src": "22_mounts/MOUNT_16_Eagle_Mount.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_17_Snake_Mount.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "23_harvestable_herbs/HERB_01_Spirit_Grass.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "23_harvestable_herbs/HERB_02_Moonflower.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "23_harvestable_herbs/HERB_03_Sunleaf.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5817,8 +5803,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 52,
-  "views_pending": 1883,
+  "complete": 56,
+  "views_pending": 1873,
   "views_per_turn_limit": 10
  }
 }
