@@ -513,35 +513,23 @@
   },
   {
    "src": "17_businesses/BUSINESS_16_Clothing_Store.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_17_Jewelry_Store.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_18_Flower_Shop.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_19_Bookstore.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back",
     "interior"
@@ -5615,8 +5603,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 98,
-  "views_pending": 1727,
+  "complete": 101,
+  "views_pending": 1718,
   "views_per_turn_limit": 10
  }
 }
