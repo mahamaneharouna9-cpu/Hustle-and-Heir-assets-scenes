@@ -503,36 +503,25 @@
   },
   {
    "src": "17_businesses/BUSINESS_14_Barber_Shop.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "17_businesses/BUSINESS_15_Tattoo_Shop.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "17_businesses/BUSINESS_16_Clothing_Store.jpg",
    "done": 3,
    "missing": [
     "interior"
    ]
   },
   {
-   "src": "17_businesses/BUSINESS_15_Tattoo_Shop.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
-   "src": "17_businesses/BUSINESS_16_Clothing_Store.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
    "src": "17_businesses/BUSINESS_17_Jewelry_Store.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back",
     "interior"
@@ -5626,8 +5615,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 96,
-  "views_pending": 1736,
+  "complete": 98,
+  "views_pending": 1727,
   "views_per_turn_limit": 10
  }
 }
