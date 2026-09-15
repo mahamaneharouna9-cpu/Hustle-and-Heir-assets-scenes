@@ -266,36 +266,25 @@
   },
   {
    "src": "22_mounts/MOUNT_14_Wolf_Mount.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_15_Lion_Mount.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_16_Eagle_Mount.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
   {
    "src": "22_mounts/MOUNT_17_Snake_Mount.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5828,8 +5817,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 50,
-  "views_pending": 1892,
+  "complete": 52,
+  "views_pending": 1883,
   "views_per_turn_limit": 10
  }
 }
