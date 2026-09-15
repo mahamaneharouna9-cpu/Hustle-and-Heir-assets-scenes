@@ -331,30 +331,20 @@
   },
   {
    "src": "24_harvestable_trees/TREE_04_Frost_Willow.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "24_harvestable_trees/TREE_05_Void_Tree.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
-    "back"
+    "side"
    ]
   },
   {
    "src": "24_harvestable_trees/TREE_06_World_Tree.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "25_harvestable_ore_veins/ORE_01_Cyan_Iron_Vein.jpg",
@@ -5776,8 +5766,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 63,
-  "views_pending": 1853,
+  "complete": 65,
+  "views_pending": 1845,
   "views_per_turn_limit": 10
  }
 }
