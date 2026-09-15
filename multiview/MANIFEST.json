@@ -478,37 +478,25 @@
   },
   {
    "src": "17_businesses/BUSINESS_09_Dojo.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "17_businesses/BUSINESS_10_Gallery.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "17_businesses/BUSINESS_11_Casino.jpg",
    "done": 3,
    "missing": [
     "interior"
    ]
   },
   {
-   "src": "17_businesses/BUSINESS_10_Gallery.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
-   "src": "17_businesses/BUSINESS_11_Casino.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
    "src": "17_businesses/BUSINESS_12_Weapon_Shop.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5651,8 +5639,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 91,
-  "views_pending": 1756,
+  "complete": 94,
+  "views_pending": 1746,
   "views_per_turn_limit": 10
  }
 }
