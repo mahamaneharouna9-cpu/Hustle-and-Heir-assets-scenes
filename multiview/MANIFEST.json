@@ -346,10 +346,8 @@
   },
   {
    "src": "25_harvestable_ore_veins/ORE_01_Cyan_Iron_Vein.jpg",
-   "done": 2,
-   "missing": [
-    "side"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "25_harvestable_ore_veins/ORE_02_Spirit_Crystal_Vein.jpg",
@@ -358,35 +356,23 @@
   },
   {
    "src": "25_harvestable_ore_veins/ORE_03_Gold_Vein.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "25_harvestable_ore_veins/ORE_04_Mana_Crystal_Cluster.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "25_harvestable_ore_veins/ORE_05_Void_Ore_Vein.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "25_harvestable_ore_veins/ORE_06_Immortal_Origin_Ore.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5757,8 +5743,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 67,
-  "views_pending": 1838,
+  "complete": 71,
+  "views_pending": 1828,
   "views_per_turn_limit": 10
  }
 }
