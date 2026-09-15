@@ -451,37 +451,25 @@
   },
   {
    "src": "17_businesses/BUSINESS_04_Tech_Lab.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "17_businesses/BUSINESS_05_Blacksmith_Shop.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "17_businesses/BUSINESS_06_Alchemy_Shop.jpg",
    "done": 3,
    "missing": [
     "interior"
    ]
   },
   {
-   "src": "17_businesses/BUSINESS_05_Blacksmith_Shop.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
-   "src": "17_businesses/BUSINESS_06_Alchemy_Shop.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
    "src": "17_businesses/BUSINESS_07_Magic_Shop.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5674,8 +5662,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 87,
-  "views_pending": 1775,
+  "complete": 90,
+  "views_pending": 1765,
   "views_per_turn_limit": 10
  }
 }
