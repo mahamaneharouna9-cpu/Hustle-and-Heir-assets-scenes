@@ -416,35 +416,23 @@
   },
   {
    "src": "27_harvestable_tech_salvage/TECH_03_Drone_Wreckage.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "27_harvestable_tech_salvage/TECH_04_Server_Rack.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "27_harvestable_tech_salvage/TECH_05_AI_Core.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "27_harvestable_tech_salvage/TECH_06_Immortal_Tech_Core.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5707,8 +5695,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 80,
-  "views_pending": 1801,
+  "complete": 83,
+  "views_pending": 1792,
   "views_per_turn_limit": 10
  }
 }
