@@ -201,36 +201,23 @@
   },
   {
    "src": "22_mounts/MOUNT_01_Horse.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_02_Qi_Cloud.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_03_Flying_Sword.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_04_Hoverboard.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5879,8 +5866,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 37,
-  "views_pending": 1930,
+  "complete": 40,
+  "views_pending": 1920,
   "views_per_turn_limit": 10
  }
 }
