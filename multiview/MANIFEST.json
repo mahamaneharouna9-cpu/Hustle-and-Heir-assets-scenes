@@ -401,35 +401,23 @@
   },
   {
    "src": "26_harvestable_fish/FISH_06_Immortal_Kun.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "27_harvestable_tech_salvage/TECH_01_Scrap_Pile.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "27_harvestable_tech_salvage/TECH_02_Quantum_Core.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "27_harvestable_tech_salvage/TECH_03_Drone_Wreckage.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5719,8 +5707,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 77,
-  "views_pending": 1810,
+  "complete": 80,
+  "views_pending": 1801,
   "views_per_turn_limit": 10
  }
 }
