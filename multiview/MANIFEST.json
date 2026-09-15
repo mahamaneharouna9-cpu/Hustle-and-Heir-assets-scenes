@@ -251,30 +251,18 @@
   },
   {
    "src": "22_mounts/MOUNT_11_Kirin_Mount.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_12_Mech_Dragon.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_13_Bear_Mount.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "22_mounts/MOUNT_14_Wolf_Mount.jpg",
@@ -5840,8 +5828,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 47,
-  "views_pending": 1901,
+  "complete": 50,
+  "views_pending": 1892,
   "views_per_turn_limit": 10
  }
 }
