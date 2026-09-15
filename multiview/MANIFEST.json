@@ -488,36 +488,23 @@
   },
   {
    "src": "17_businesses/BUSINESS_11_Casino.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_12_Weapon_Shop.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_13_Pill_Shop.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_14_Barber_Shop.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
     "interior"
    ]
   },
@@ -5639,8 +5626,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 94,
-  "views_pending": 1746,
+  "complete": 96,
+  "views_pending": 1736,
   "views_per_turn_limit": 10
  }
 }
