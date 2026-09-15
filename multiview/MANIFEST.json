@@ -47,37 +47,23 @@
   },
   {
    "src": "03_vehicles/VEHICLE_05_SUV.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_06_Truck.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_07_Bus.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_08_Helicopter.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_09_Jet.jpg",
@@ -5920,8 +5906,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 11,
-  "views_pending": 1945,
+  "complete": 15,
+  "views_pending": 1935,
   "views_per_turn_limit": 10
  }
 }
