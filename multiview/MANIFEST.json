@@ -441,28 +441,18 @@
   },
   {
    "src": "17_businesses/BUSINESS_02_Restaurant.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_03_Nightclub.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_04_Tech_Lab.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
     "interior"
    ]
   },
@@ -5684,8 +5674,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 85,
-  "views_pending": 1783,
+  "complete": 87,
+  "views_pending": 1775,
   "views_per_turn_limit": 10
  }
 }
