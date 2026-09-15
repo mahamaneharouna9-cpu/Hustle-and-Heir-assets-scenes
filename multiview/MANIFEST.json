@@ -49,31 +49,23 @@
   },
   {
    "src": "03_vehicles/VEHICLE_05_SUV.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_06_Truck.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_07_Bus.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_08_Helicopter.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_09_Jet.jpg",
@@ -94,12 +86,8 @@
   },
   {
    "src": "05_workstations/WORKSTATION_01_Alchemy_Furnace.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "05_workstations/WORKSTATION_02_Forging_Anvil.jpg",
@@ -131,12 +119,8 @@
   },
   {
    "src": "21_pets/PET_02_Phoenix.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "21_pets/PET_03_Tiger.jpg",
@@ -5972,8 +5956,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 12,
-  "views_pending": 1998,
+  "complete": 18,
+  "views_pending": 1988,
   "views_per_turn_limit": 10
  }
 }
