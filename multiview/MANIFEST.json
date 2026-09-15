@@ -461,36 +461,25 @@
   },
   {
    "src": "17_businesses/BUSINESS_06_Alchemy_Shop.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "17_businesses/BUSINESS_07_Magic_Shop.jpg",
    "done": 3,
    "missing": [
     "interior"
    ]
   },
   {
-   "src": "17_businesses/BUSINESS_07_Magic_Shop.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
-  },
-  {
    "src": "17_businesses/BUSINESS_08_Cultivation_School.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_09_Dojo.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
     "interior"
    ]
   },
@@ -5662,8 +5651,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 90,
-  "views_pending": 1765,
+  "complete": 91,
+  "views_pending": 1756,
   "views_per_turn_limit": 10
  }
 }
