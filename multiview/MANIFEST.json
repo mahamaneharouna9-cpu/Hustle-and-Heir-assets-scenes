@@ -386,35 +386,23 @@
   },
   {
    "src": "26_harvestable_fish/FISH_03_Spirit_Koi.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "26_harvestable_fish/FISH_04_Thunder_Bass.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "26_harvestable_fish/FISH_05_Dragon_Carp.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "26_harvestable_fish/FISH_06_Immortal_Kun.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5731,8 +5719,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 74,
-  "views_pending": 1819,
+  "complete": 77,
+  "views_pending": 1810,
   "views_per_turn_limit": 10
  }
 }
