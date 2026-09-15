@@ -11,6 +11,13 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "concept_art"
 OUT = ROOT / "multiview"
 
+# subjects in these categories also need an interior view
+INTERIOR_CATS = {"03_vehicles", "17_businesses", "18_housing",
+                 "19_cultivation_sects", "20_magic_towers"}
+# open vehicles without a cabin — no interior view needed
+NO_INTERIOR = {"03_vehicles/VEHICLE_01_Bicycle", "03_vehicles/VEHICLE_02_Scooter",
+               "03_vehicles/VEHICLE_10_Hoverboard", "03_vehicles/VEHICLE_11_Qi_Cloud"}
+
 # priority order for generation waves (base meshes first ... careers last)
 WAVES = [
     "01_base_meshes", "03_vehicles", "05_workstations", "21_pets",
@@ -33,8 +40,11 @@ def main() -> None:
         for src in sorted(d.rglob("*.jpg")):
             rel = src.relative_to(SRC)
             outdir = OUT / rel.parent
+            need = ("front", "side", "back") + (
+                ("interior",) if cat in INTERIOR_CATS
+                and f"{cat}/{src.stem}" not in NO_INTERIOR else ())
             views = {v: (outdir / f"{src.stem}_{v}.jpg").exists()
-                     for v in ("front", "side", "back")}
+                     for v in need}
             subjects.append({
                 "src": str(rel),
                 "done": sum(views.values()),
@@ -45,7 +55,7 @@ def main() -> None:
         "priority_order": [w for w in WAVES if (SRC / w).exists()],
         "stats": {
             "subjects": len(subjects),
-            "complete": sum(1 for s in subjects if s["done"] == 3),
+            "complete": sum(1 for s in subjects if s["done"] == len(s["missing"]) or not s["missing"]),
             "views_pending": sum(len(s["missing"]) for s in subjects),
             "views_per_turn_limit": 10,
         },

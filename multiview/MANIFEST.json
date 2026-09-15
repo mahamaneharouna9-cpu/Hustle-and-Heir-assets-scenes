@@ -38,59 +38,59 @@
   {
    "src": "03_vehicles/VEHICLE_03_Motorcycle.jpg",
    "done": 3,
-   "missing": []
+   "missing": [
+    "interior"
+   ]
   },
   {
    "src": "03_vehicles/VEHICLE_04_Sports_Car.jpg",
-   "done": 3,
+   "done": 4,
    "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_05_SUV.jpg",
    "done": 3,
-   "missing": []
+   "missing": [
+    "interior"
+   ]
   },
   {
    "src": "03_vehicles/VEHICLE_06_Truck.jpg",
    "done": 3,
-   "missing": []
+   "missing": [
+    "interior"
+   ]
   },
   {
    "src": "03_vehicles/VEHICLE_07_Bus.jpg",
    "done": 3,
-   "missing": []
+   "missing": [
+    "interior"
+   ]
   },
   {
    "src": "03_vehicles/VEHICLE_08_Helicopter.jpg",
    "done": 3,
-   "missing": []
+   "missing": [
+    "interior"
+   ]
   },
   {
    "src": "03_vehicles/VEHICLE_09_Jet.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back"
+    "interior"
    ]
   },
   {
    "src": "03_vehicles/VEHICLE_10_Hoverboard.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_11_Qi_Cloud.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "05_workstations/WORKSTATION_01_Alchemy_Furnace.jpg",
@@ -720,7 +720,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -729,7 +730,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -738,7 +740,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -747,7 +750,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -756,7 +760,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -765,7 +770,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -774,7 +780,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -783,7 +790,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -792,7 +800,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -801,7 +810,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -810,7 +820,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -819,7 +830,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -828,7 +840,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -837,7 +850,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -846,7 +860,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -855,7 +870,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -864,7 +880,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -873,7 +890,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -882,7 +900,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -891,7 +910,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -900,7 +920,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -909,7 +930,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -918,7 +940,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -927,7 +950,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -936,7 +960,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -945,7 +970,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -954,7 +980,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -963,7 +990,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -972,7 +1000,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -981,7 +1010,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -990,7 +1020,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -999,7 +1030,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1008,7 +1040,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1017,7 +1050,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1026,7 +1060,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1035,7 +1070,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1044,7 +1080,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1053,7 +1090,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1062,7 +1100,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1071,7 +1110,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1080,7 +1120,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1089,7 +1130,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1098,7 +1140,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1107,7 +1150,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1116,7 +1160,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1125,7 +1170,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1134,7 +1180,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1143,7 +1190,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1152,7 +1200,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1161,7 +1210,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1170,7 +1220,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1179,7 +1230,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1188,7 +1240,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1197,7 +1250,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1206,7 +1260,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1215,7 +1270,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1224,7 +1280,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1233,7 +1290,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1242,7 +1300,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1251,7 +1310,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1260,7 +1320,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1269,7 +1330,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1278,7 +1340,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1287,7 +1350,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1296,7 +1360,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -1305,7 +1370,8 @@
    "missing": [
     "front",
     "side",
-    "back"
+    "back",
+    "interior"
    ]
   },
   {
@@ -5906,8 +5972,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 15,
-  "views_pending": 1935,
+  "complete": 12,
+  "views_pending": 1998,
   "views_per_turn_limit": 10
  }
 }
