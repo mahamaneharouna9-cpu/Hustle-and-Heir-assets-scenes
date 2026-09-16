@@ -714,13 +714,23 @@
   },
   {
    "src": "20_magic_towers/TOWER_03_Ley_Line_Nexus.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "20_magic_towers/TOWER_04_Crystal_Spire.jpg",
    "done": 3,
    "missing": [
     "interior"
    ]
   },
   {
-   "src": "20_magic_towers/TOWER_04_Crystal_Spire.jpg",
+   "src": "20_magic_towers/TOWER_05_Mana_Tree.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "20_magic_towers/TOWER_06_Void_Spire.jpg",
    "done": 1,
    "missing": [
     "side",
@@ -729,31 +739,9 @@
    ]
   },
   {
-   "src": "20_magic_towers/TOWER_05_Mana_Tree.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
-   "src": "20_magic_towers/TOWER_06_Void_Spire.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
    "src": "20_magic_towers/TOWER_07_Time_Tower.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5426,8 +5414,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 134,
-  "views_pending": 1574,
+  "complete": 137,
+  "views_pending": 1564,
   "views_per_turn_limit": 10
  }
 }
