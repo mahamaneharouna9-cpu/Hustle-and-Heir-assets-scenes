@@ -600,35 +600,23 @@
   },
   {
    "src": "18_housing/HOUSING_14_Underwater_Villa.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_15_Luxury_Yacht.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_16_Space_Station.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_17_Cyberpunk_Loft.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5531,8 +5519,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 115,
-  "views_pending": 1659,
+  "complete": 118,
+  "views_pending": 1650,
   "views_per_turn_limit": 10
  }
 }
