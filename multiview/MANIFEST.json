@@ -677,32 +677,20 @@
   },
   {
    "src": "19_cultivation_sects/SECT_10_Tiger_Style.jpg",
-   "done": 1,
+   "done": 3,
    "missing": [
-    "side",
-    "back",
     "interior"
    ]
   },
   {
    "src": "19_cultivation_sects/SECT_11_Shadow_Sect.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_12_Dragon_Sect.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_13_Phoenix_Sect.jpg",
@@ -5462,8 +5450,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 128,
-  "views_pending": 1604,
+  "complete": 130,
+  "views_pending": 1594,
   "views_per_turn_limit": 10
  }
 }
