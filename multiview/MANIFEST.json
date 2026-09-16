@@ -746,6 +746,16 @@
   },
   {
    "src": "20_magic_towers/TOWER_09_Space_Tower.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "20_magic_towers/TOWER_10_Necromancy_Tower.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "20_magic_towers/TOWER_11_Dragon_Tower.jpg",
    "done": 1,
    "missing": [
     "side",
@@ -754,31 +764,9 @@
    ]
   },
   {
-   "src": "20_magic_towers/TOWER_10_Necromancy_Tower.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
-   "src": "20_magic_towers/TOWER_11_Dragon_Tower.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
    "src": "20_magic_towers/TOWER_12_Illusion_Tower.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5401,8 +5389,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 139,
-  "views_pending": 1554,
+  "complete": 142,
+  "views_pending": 1544,
   "views_per_turn_limit": 10
  }
 }
