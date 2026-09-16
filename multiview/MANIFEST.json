@@ -694,30 +694,18 @@
   },
   {
    "src": "19_cultivation_sects/SECT_13_Phoenix_Sect.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_14_Snake_Sect.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_01_Floating_Spire.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5450,8 +5438,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 130,
-  "views_pending": 1594,
+  "complete": 133,
+  "views_pending": 1584,
   "views_per_turn_limit": 10
  }
 }
