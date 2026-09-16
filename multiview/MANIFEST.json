@@ -650,30 +650,20 @@
   },
   {
    "src": "19_cultivation_sects/SECT_05_Xing_Yi.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_06_Baji.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
+    "back"
    ]
   },
   {
    "src": "19_cultivation_sects/SECT_07_Bagua.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5486,8 +5476,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 124,
-  "views_pending": 1624,
+  "complete": 126,
+  "views_pending": 1615,
   "views_per_turn_limit": 10
  }
 }
