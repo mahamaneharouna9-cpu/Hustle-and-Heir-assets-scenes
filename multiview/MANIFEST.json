@@ -762,11 +762,8 @@
   },
   {
    "src": "28_housing_interiors/FINAL_HOUSING_COLLECTION.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_01_Apartment.jpg",
@@ -785,33 +782,23 @@
   },
   {
    "src": "28_housing_interiors/INTERIOR_04_Mystic_Villa.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_05_Penthouse.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_06_Rural_Farmhouse.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_07_Underground_Bunker.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5342,8 +5329,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 155,
-  "views_pending": 1511,
+  "complete": 159,
+  "views_pending": 1502,
   "views_per_turn_limit": 10
  }
 }
