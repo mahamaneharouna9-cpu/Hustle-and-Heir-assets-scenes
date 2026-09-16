@@ -771,28 +771,20 @@
   },
   {
    "src": "28_housing_interiors/INTERIOR_01_Apartment.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
-    "back"
+    "side"
    ]
   },
   {
    "src": "28_housing_interiors/INTERIOR_02_House.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_03_Mansion.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5358,8 +5350,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 152,
-  "views_pending": 1524,
+  "complete": 153,
+  "views_pending": 1517,
   "views_per_turn_limit": 10
  }
 }
