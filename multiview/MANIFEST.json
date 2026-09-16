@@ -731,36 +731,23 @@
   },
   {
    "src": "20_magic_towers/TOWER_06_Void_Spire.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_07_Time_Tower.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_08_Elemental_Tower.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_09_Space_Tower.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back",
     "interior"
@@ -5414,8 +5401,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 137,
-  "views_pending": 1564,
+  "complete": 139,
+  "views_pending": 1554,
   "views_per_turn_limit": 10
  }
 }
