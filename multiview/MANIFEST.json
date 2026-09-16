@@ -756,36 +756,23 @@
   },
   {
    "src": "20_magic_towers/TOWER_11_Dragon_Tower.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_12_Illusion_Tower.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_13_Phoenix_Tower.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_14_Snake_Tower.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back",
     "interior"
@@ -5389,8 +5376,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 142,
-  "views_pending": 1544,
+  "complete": 144,
+  "views_pending": 1534,
   "views_per_turn_limit": 10
  }
 }
