@@ -635,31 +635,18 @@
   },
   {
    "src": "19_cultivation_sects/SECT_02_Emei.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_03_Kunlun.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_04_Shaolin.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_05_Xing_Yi.jpg",
@@ -5499,8 +5486,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 122,
-  "views_pending": 1634,
+  "complete": 124,
+  "views_pending": 1624,
   "views_per_turn_limit": 10
  }
 }
