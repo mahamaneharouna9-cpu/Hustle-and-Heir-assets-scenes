@@ -573,37 +573,25 @@
   },
   {
    "src": "18_housing/HOUSING_09_Grotto_Heaven.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "18_housing/HOUSING_10_Secret_Realm.jpg",
    "done": 3,
    "missing": [
     "interior"
    ]
   },
   {
-   "src": "18_housing/HOUSING_10_Secret_Realm.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
    "src": "18_housing/HOUSING_11_Elemental_Land.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_12_Dao_Land.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
     "interior"
    ]
   },
@@ -5555,8 +5543,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 110,
-  "views_pending": 1679,
+  "complete": 112,
+  "views_pending": 1669,
   "views_per_turn_limit": 10
  }
 }
