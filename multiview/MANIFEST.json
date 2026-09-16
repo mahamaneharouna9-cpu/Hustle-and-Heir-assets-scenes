@@ -655,10 +655,8 @@
   },
   {
    "src": "19_cultivation_sects/SECT_06_Baji.jpg",
-   "done": 3,
-   "missing": [
-    "back"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_07_Bagua.jpg",
@@ -5476,8 +5474,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 126,
-  "views_pending": 1615,
+  "complete": 127,
+  "views_pending": 1614,
   "views_per_turn_limit": 10
  }
 }
