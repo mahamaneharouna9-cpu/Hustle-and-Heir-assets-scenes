@@ -660,37 +660,25 @@
   },
   {
    "src": "19_cultivation_sects/SECT_07_Bagua.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_08_Drunken.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_09_White_Crane.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
     "interior"
    ]
   },
   {
    "src": "19_cultivation_sects/SECT_10_Tiger_Style.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back",
     "interior"
@@ -5474,8 +5462,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 127,
-  "views_pending": 1614,
+  "complete": 128,
+  "views_pending": 1604,
   "views_per_turn_limit": 10
  }
 }
