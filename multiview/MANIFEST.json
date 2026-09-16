@@ -590,37 +590,25 @@
   },
   {
    "src": "18_housing/HOUSING_12_Dao_Land.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "18_housing/HOUSING_13_Sky_Palace.jpg",
+   "done": 4,
+   "missing": []
+  },
+  {
+   "src": "18_housing/HOUSING_14_Underwater_Villa.jpg",
    "done": 3,
    "missing": [
     "interior"
    ]
   },
   {
-   "src": "18_housing/HOUSING_13_Sky_Palace.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
-   "src": "18_housing/HOUSING_14_Underwater_Villa.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
-  },
-  {
    "src": "18_housing/HOUSING_15_Luxury_Yacht.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5543,8 +5531,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 112,
-  "views_pending": 1669,
+  "complete": 115,
+  "views_pending": 1659,
   "views_per_turn_limit": 10
  }
 }
