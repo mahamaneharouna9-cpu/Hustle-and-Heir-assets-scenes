@@ -625,28 +625,18 @@
   },
   {
    "src": "18_housing/HOUSING_19_Igloo.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_01_Wudang.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_02_Emei.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5509,8 +5499,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 120,
-  "views_pending": 1642,
+  "complete": 122,
+  "views_pending": 1634,
   "views_per_turn_limit": 10
  }
 }
