@@ -704,37 +704,25 @@
   },
   {
    "src": "20_magic_towers/TOWER_01_Floating_Spire.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_02_Arcane_Library.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_03_Ley_Line_Nexus.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
     "interior"
    ]
   },
   {
    "src": "20_magic_towers/TOWER_04_Crystal_Spire.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back",
     "interior"
@@ -5438,8 +5426,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 133,
-  "views_pending": 1584,
+  "complete": 134,
+  "views_pending": 1574,
   "views_per_turn_limit": 10
  }
 }
