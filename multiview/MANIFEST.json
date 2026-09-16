@@ -615,28 +615,18 @@
   },
   {
    "src": "18_housing/HOUSING_17_Cyberpunk_Loft.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_18_Treehouse.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_19_Igloo.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back",
     "interior"
    ]
@@ -5519,8 +5509,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 118,
-  "views_pending": 1650,
+  "complete": 120,
+  "views_pending": 1642,
   "views_per_turn_limit": 10
  }
 }
