@@ -563,37 +563,25 @@
   },
   {
    "src": "18_housing/HOUSING_07_Arcane_Tower_Home.jpg",
-   "done": 2,
-   "missing": [
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_08_Penthouse.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_09_Grotto_Heaven.jpg",
-   "done": 0,
+   "done": 3,
    "missing": [
-    "front",
-    "side",
-    "back",
     "interior"
    ]
   },
   {
    "src": "18_housing/HOUSING_10_Secret_Realm.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back",
     "interior"
@@ -5567,8 +5555,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 109,
-  "views_pending": 1689,
+  "complete": 110,
+  "views_pending": 1679,
   "views_per_turn_limit": 10
  }
 }
