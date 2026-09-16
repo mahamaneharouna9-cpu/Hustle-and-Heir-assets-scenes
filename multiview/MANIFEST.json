@@ -37,10 +37,8 @@
   },
   {
    "src": "03_vehicles/VEHICLE_03_Motorcycle.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_04_Sports_Car.jpg",
@@ -69,10 +67,8 @@
   },
   {
    "src": "03_vehicles/VEHICLE_09_Jet.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "03_vehicles/VEHICLE_10_Hoverboard.jpg",
@@ -466,10 +462,8 @@
   },
   {
    "src": "17_businesses/BUSINESS_07_Magic_Shop.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "17_businesses/BUSINESS_08_Cultivation_School.jpg",
@@ -578,10 +572,8 @@
   },
   {
    "src": "18_housing/HOUSING_10_Secret_Realm.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "18_housing/HOUSING_11_Elemental_Land.jpg",
@@ -670,17 +662,13 @@
   },
   {
    "src": "19_cultivation_sects/SECT_09_White_Crane.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_10_Tiger_Style.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "19_cultivation_sects/SECT_11_Shadow_Sect.jpg",
@@ -719,10 +707,8 @@
   },
   {
    "src": "20_magic_towers/TOWER_04_Crystal_Spire.jpg",
-   "done": 3,
-   "missing": [
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "20_magic_towers/TOWER_05_Mana_Tree.jpg",
@@ -771,12 +757,8 @@
   },
   {
    "src": "20_magic_towers/TOWER_14_Snake_Tower.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back",
-    "interior"
-   ]
+   "done": 4,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/FINAL_HOUSING_COLLECTION.jpg",
@@ -5376,8 +5358,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 144,
-  "views_pending": 1534,
+  "complete": 152,
+  "views_pending": 1524,
   "views_per_turn_limit": 10
  }
 }
