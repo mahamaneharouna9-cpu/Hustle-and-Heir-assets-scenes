@@ -847,36 +847,23 @@
   },
   {
    "src": "29_faction_building_interiors/FACTION_INT_03_Sects_Alliance.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "29_faction_building_interiors/FACTION_INT_04_Tower_Guild.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "29_faction_building_interiors/FACTION_INT_05_Business_Consortium.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "29_faction_building_interiors/FACTION_INT_06_Scientist_Guild.jpg",
-   "done": 0,
+   "done": 1,
    "missing": [
-    "front",
     "side",
     "back"
    ]
@@ -5290,8 +5277,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 169,
-  "views_pending": 1473,
+  "complete": 172,
+  "views_pending": 1463,
   "views_per_turn_limit": 10
  }
 }
