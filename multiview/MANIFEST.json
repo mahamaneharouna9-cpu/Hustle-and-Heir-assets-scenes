@@ -807,42 +807,28 @@
   },
   {
    "src": "28_housing_interiors/INTERIOR_09_Grotto_Heaven.jpg",
-   "done": 2,
-   "missing": [
-    "side"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_10_Secret_Realm.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_11_Sky_Palace.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_12_Underwater_Villa.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_13_Elemental_Land.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5318,8 +5304,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 161,
-  "views_pending": 1493,
+  "complete": 165,
+  "views_pending": 1483,
   "views_per_turn_limit": 10
  }
 }
