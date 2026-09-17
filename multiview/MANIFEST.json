@@ -827,37 +827,23 @@
   },
   {
    "src": "28_housing_interiors/INTERIOR_13_Elemental_Land.jpg",
-   "done": 2,
-   "missing": [
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_14_Dao_Land.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "29_faction_building_interiors/FACTION_INT_01_Government.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "29_faction_building_interiors/FACTION_INT_02_Mafia.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "29_faction_building_interiors/FACTION_INT_03_Sects_Alliance.jpg",
@@ -5304,8 +5290,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 165,
-  "views_pending": 1483,
+  "complete": 169,
+  "views_pending": 1473,
   "views_per_turn_limit": 10
  }
 }
