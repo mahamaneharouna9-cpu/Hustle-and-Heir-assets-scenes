@@ -797,36 +797,25 @@
   },
   {
    "src": "28_housing_interiors/INTERIOR_07_Underground_Bunker.jpg",
-   "done": 1,
-   "missing": [
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_08_Arcane_Tower_Home.jpg",
-   "done": 0,
-   "missing": [
-    "front",
-    "side",
-    "back"
-   ]
+   "done": 3,
+   "missing": []
   },
   {
    "src": "28_housing_interiors/INTERIOR_09_Grotto_Heaven.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
-    "back"
+    "side"
    ]
   },
   {
    "src": "28_housing_interiors/INTERIOR_10_Secret_Realm.jpg",
-   "done": 0,
+   "done": 2,
    "missing": [
-    "front",
-    "side",
     "back"
    ]
   },
@@ -5329,8 +5318,8 @@
  ],
  "stats": {
   "subjects": 660,
-  "complete": 159,
-  "views_pending": 1502,
+  "complete": 161,
+  "views_pending": 1493,
   "views_per_turn_limit": 10
  }
 }
